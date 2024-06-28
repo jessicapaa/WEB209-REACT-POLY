@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Áo thun nam UNIQLO U Crew Neck T-Shirt",
+      "price": 299000,
+      "image": "https://www.uniqlo.com/us/en/products/E422992-000/00",
+      "description": "Áo thun nam basic, cổ tròn, tay ngắn, chất liệu cotton 100% mềm mại, thoáng mát, form ôm vừa vặn, phù hợp cho mọi hoạt động.",
+      "categories": [
+        "Áo thun",
+        "Thời trang nam"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Giày thể thao nam Adidas Ultraboost 22",
+      "price": 4290000,
+      "image": "https://www.adidas.com.vn/vi/nam-giay",
+      "description": "Giày thể thao chuyên nghiệp, hỗ trợ vận động tối ưu, đế boost êm ái, bám dính tốt, phù hợp cho tập luyện và đi chơi",
+      "categories": [
+        "Giày thể thao",
+        "Thời trang nam"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Điện thoại iPhone 13 Pro Max 128GB",
+      "price": 27990000,
+      "image": "https://www.apple.com/shop/product/FLKM3LL/A/refurbished-iphone-13-pro-max-128gb-silver-unlocked",
+      "description": "Điện thoại thông minh cao cấp, chip A15 Bionic mạnh mẽ, camera chụp ảnh sắc nét, màn hình Super Retina XDR OLED đẹp mắt, dung lượng pin trâu",
+      "categories": [
+        "Điện thoại",
+        "Công nghệ"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Laptop Dell XPS 13 Plus",
+      "price": 39990000,
+      "image": "https://www.dell.com/en-us/shop/dell-laptops/xps-13-plus-laptop/spd/xps-13-9320-laptop",
+      "description": "Laptop mỏng nhẹ, thời trang, hiệu năng mạnh mẽ, màn hình InfinityEdge viền mỏng, bàn phím và touchpad cải tiến",
+      "categories": [
+        "Laptop",
+        "Công nghệ"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Đồng hồ thông minh Apple Watch Series 7",
+      "price": 11990000,
+      "image": "https://www.apple.com/by/apple-watch-series-7/",
+      "description": "Đồng hồ thông minh hiện đại, theo dõi sức khỏe toàn diện, thiết kế đẹp mắt, nhiều tính năng tiện ích",
+      "categories": [
+        "Đồng hồ thông minh",
+        "Công nghệ"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Máy ảnh Sony Alpha 7 IV",
+      "price": 49990000,
+      "image": "https://vjshop.vn/may-anh-mirrorless/sony-alpha-a7-mark-iv-body-only-chinh-hang",
+      "description": "Máy ảnh mirrorless full-frame, độ phân giải 33MP, quay phim 4K 60fps, hệ thống lấy nét nhanh và chính xác",
+      "categories": [
+        "Máy ảnh",
+        "Công nghệ"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Tủ lạnh Samsung Side By Side RB34N8828SS",
+      "price": 21990000,
+      "image": "https://www.samsung.com/levant/refrigerators/all-refrigerators/",
+      "description": "Tủ lạnh sạng trọng, dung tích lớn, công nghệ Twin Cooling Plus giữ thực phẩm tươi ngon, thiết kế hiện đại",
+      "categories": [
+        "Đồ gia dụng",
+        "Nhà bếp"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Máy giặt LG AI DD T2309V4E",
+      "price": 12990000,
+      "image": "https://www.lg.com/vn",
+      "description": "Máy giặt thông minh, giặt sạch hiệu quả, tiết kiệm nước, diệt khuẩn, bảo vệ quần áo",
+      "categories": [
+        "Đồ gia dụng",
+        "Giặt ủi"
+      ]
+    }
+  ]
+}
